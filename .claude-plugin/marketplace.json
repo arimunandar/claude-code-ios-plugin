@@ -1,0 +1,20 @@
+{
+  "name": "claude-code-ios-plugin",
+  "owner": {
+    "name": "Ari Munandar",
+    "email": "arimunandar.dev@gmail.com"
+  },
+  "metadata": {
+    "description": "iOS development plugin with VIP+W Clean Architecture, legacy migration, comprehensive code review, performance optimization, and memory leak detection",
+    "version": "2.2.0"
+  },
+  "plugins": [
+    {
+      "name": "ios-development",
+      "source": "./",
+      "description": "Comprehensive iOS development plugin with VIP+W architecture, UIKit horizontal-first layouting, legacy code migration, 9 specialized agents, 10 skills, and analysis scripts for performance, memory, and accessibility.",
+      "category": "development",
+      "tags": ["ios", "swift", "uikit", "vip", "architecture", "code-review", "performance", "memory", "accessibility"]
+    }
+  ]
+}

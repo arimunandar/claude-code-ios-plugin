@@ -1,0 +1,9 @@
+{
+  "name": "ios-development",
+  "description": "Comprehensive iOS development toolkit with VIP+W architecture, legacy migration, code review, performance optimization, memory leak detection, and accessibility auditing",
+  "version": "2.2.0",
+  "author": {
+    "name": "Ari Munandar",
+    "email": "arimunandar.dev@gmail.com"
+  }
+}

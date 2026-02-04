@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Backup files
+*.backup
+*.bak
+
+# Logs
+*.log
+
+# Local settings (don't commit user-specific settings)
+.claude/settings.local.json
